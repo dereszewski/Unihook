@@ -7,7 +7,6 @@ Unihook A Webhook Controler
 3. Webhook Repeater - Repeates Messages
 4. View Webhook - Views The Webhook That You Puted
 5. Re Enter Webhook - Asks You For A New Webhook
-# Features
 
 # Updates
 Removed:
